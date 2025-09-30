@@ -3,11 +3,11 @@
 
 ### 1. Objetivo
 
->Criar um site estático institucional (apenas HTML e CSS) para uma marca fictícia à escolha do trio (ex.: cafeteria, estúdio de design, ONG, clínica, entre outros), focado em HTML semântico, CSS organizado e acessibilidade básica.
+Criar um site estático institucional (apenas HTML e CSS) para uma marca fictícia à escolha do trio (ex.: cafeteria, estúdio de design, ONG, clínica, entre outros), focado em HTML semântico, CSS organizado e acessibilidade básica.
 
 ### 2. Regras e escopo
 
->**Tecnologias**: apenas HTML5 + CSS3 (sem frameworks; permitido Google Fonts e ícones via CDN).
+**Tecnologias**: apenas HTML5 + CSS3 (sem frameworks; permitido Google Fonts e ícones via CDN).
 
 ### 3. Páginas obrigatórias
 
@@ -16,7 +16,7 @@
 - Barra de navegação com links para todas as páginas.
 - Destaques em **cards** (mín. 3) em **flex**.
 
-*Hero: Essa seção na página inicial costuma apresentar uma imagem ou vídeo impactante, um título conciso, um texto persuasivo e uma chamada para ação (CTA) que guia o visitante para as próximas etapas desejadas no site. 
+>*Hero: Essa seção na página inicial costuma apresentar uma imagem ou vídeo impactante, um título conciso, um texto persuasivo e uma chamada para ação (CTA) que guia o visitante para as próximas etapas desejadas no site. 
 
 2. **Sobre/Serviços/Produtos (sobre.html)**
 - Seções com títulos hierárquicos (`<h1>…<h3>`).
@@ -77,3 +77,7 @@ Obs: No repositório o arquivo **README.md** (obrigatório) deve conter:
 - [ ]  README com papéis, paleta, fontes e decisões.
 - [ ]  Site no ar.
 - [ ]  Vídeo de demonstração.
+
+### 9. Desafio bônus (1,0 ponto extra)
+
+- [ ] Design responsivo com uso de media queries (sem frameworks).
