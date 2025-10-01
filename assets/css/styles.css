@@ -1,0 +1,24 @@
+body{
+    font-family: minion-pro, ayulia-molga, serif;
+    color: #141c14;
+}
+
+header{
+    background-color: #6C2382;
+}
+
+main{
+    background-color: #868686;
+}
+
+a{
+    background-color: white;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    background-color: #FFFFFF;
+}
+
+
