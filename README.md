@@ -10,7 +10,8 @@ Criar um site estático institucional (apenas HTML e CSS) para uma marca fictíc
 **Tecnologias**: apenas HTML5 + CSS3 (sem frameworks; permitido Google Fonts e ícones via CDN).
 
 <details>
-<summary><strong> Informações do Projeto: </summary></strong>
+<summary><strong> Informações da disciplina para o Projeto: </summary></strong>
+
 ### 3. Páginas obrigatórias
 
 1. **Home (index.html)**
@@ -66,9 +67,13 @@ Obs: No repositório o arquivo **README.md** (obrigatório) deve conter:
 - Paleta de cores (hexadecimal) + fontes usadas.
 - Como abrir o projeto (basta abrir `index.html`).
 - Checklist (copiar a seção do item 8 preenchida).
+
 </details>
 
-### 8. Checklist (colar no README e marcar)
+<details>
+<summary><strong> Checklist de Requisitos do Projetos: </summary></strong>
+
+### 8. Checklist
 
 - [ ]  3 páginas mínimas (Home/Sobre/Contato) + links funcionando.
 - [ ]  `header`, `nav`, `main`, `footer` usados com propósito.
@@ -84,3 +89,5 @@ Obs: No repositório o arquivo **README.md** (obrigatório) deve conter:
 ### 9. Desafio bônus (1,0 ponto extra)
 
 - [ ] Design responsivo com uso de media queries (sem frameworks).
+
+</details>
