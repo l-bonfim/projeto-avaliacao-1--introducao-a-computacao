@@ -32,3 +32,4 @@ Criar um site estático institucional (apenas HTML e CSS) para uma marca fictíc
 ### Desafio bônus (1,0 ponto extra)
 
 - [ ] Design responsivo com uso de media queries (sem frameworks).
+
