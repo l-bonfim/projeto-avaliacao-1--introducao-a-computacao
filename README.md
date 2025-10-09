@@ -1,5 +1,4 @@
-# Projeto de Avliação 1 - Introdução a Computação
-## Protótipo de site para Tania Bonfim Bolos.
+# Projeto de Avliação 1 - Introdução a 
 
 <details>
 <summary><strong> Informações da disciplina para o Projeto: </summary></strong>
@@ -15,6 +14,8 @@ Criar um site estático institucional (apenas HTML e CSS) para uma marca fictíc
 [Mais Informações do Projeto](./project-info.md)
 
 </details>
+
+## Protótipo de site para Tania Bonfim Bolos.
 
 ### Checklist
 
