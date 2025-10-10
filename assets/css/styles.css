@@ -39,8 +39,7 @@ main{
 }
 
 .hero-img{
-    background-image: linear-gradient(#0000007F, #0000007F);
-    background-color: var(--secondary-color);
+    background-image: linear-gradient(#0000007f, #0000007f), url(../img/Hero\ site.png);
     width: 80%;
     height: 450px;
     background-position: center;
@@ -89,13 +88,45 @@ main{
     width: 100%;
 }
 
+#casamento{
+    background-image: linear-gradient(#0000007f, #0000007f), url('../img/casamento.jpeg') ;
+}
+
+#eventos{
+    background-image: linear-gradient(#0000007f, #0000007f), url('../img/evento_caixa.jpeg') ;
+}
+
+#caixinha{
+    background-image: linear-gradient(#0000007f, #0000007f), url('../img/caixinha.jpeg') ;
+}
+
+#homem{
+    background-image: linear-gradient(#0000007f, #0000007f), url('../img/homem-meia-noite.jpg') ;
+}
+
+#cabo{
+    background-image: linear-gradient(#0000007f, #0000007f), url('../img/caboclo.jpg') ;
+}
+
+#laursa{
+    background-image: linear-gradient(#0000007f, #0000007f), url('../img/laursa.jpg') ;
+}
+
+#papa{
+    background-image: linear-gradient(#0000007f, #0000007f), url('../img/papangu.jpg') ;
+}
+
+#carranca{
+    background-image: linear-gradient(#0000007f, #0000007f), url('../img/carranca.jpg') ;
+}
+
+
 .card-elem{
-    border: var(--extra-color) solid 1px;
+    border: var(--content-color) solid 1px;
     border-radius: 10%;
     height: 250px;
     width: 250px;
-    margin: 50px;
-    background-color: var(--content-color);
+    margin: 20px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -108,7 +139,7 @@ main{
     top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: var(--text-color);
+    color: var(--extra-color);
 }
 
 @media screen and (max-width: 750px){
@@ -211,8 +242,6 @@ th{
     border: var(--text-color) solid 1px;
     padding: 5px;
 }
-
-
 
 /* .about-me{
     display: flex;
