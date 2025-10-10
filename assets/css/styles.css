@@ -27,21 +27,63 @@ header{
 
 main{
     background-image: url(../img/background-layout.jpeg);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     width: 100%;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     padding: 5px 0 15px;
 }
 
-div{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
+.hero-img{
+    background-image: linear-gradient(#0000007F, #0000007F);
+    background-color: var(--secondary-color);
+    width: 80%;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
 
+.hero-text{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--extra-color);
+}
+
+.cards-area{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.card-elem{
+    border: var(--extra-color) solid 1px;
+    border-radius: 10%;
+    height: 250px;
+    width: 250px;
+    margin: 50px;
+    background-color: var(--content-color);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.card-text{
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--text-color);
 }
 
 nav{
