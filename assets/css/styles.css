@@ -97,6 +97,22 @@ p{
     font-size: 20px;
 }
 
+.insta-tel{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+}
+
+a{
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: var(--extra-color);
+    color: var(--primary-color);
+}
+
 .nav-link{
     padding: 3px;
     color: var(--extra-color);
@@ -118,4 +134,13 @@ img{
 footer{
     text-align: center;
     text-justify: center;
+}
+
+.iframe-area{
+    text-align: center;
+    margin: 10px;
+}
+
+.iframe-area p{
+    margin: 10px;
 }
