@@ -161,3 +161,22 @@ footer{
 .about-section h2{
     margin-bottom: 10px;
 }
+
+table{
+    border: var(--text-color) solid 1px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td{
+    background-color: var(--extra-color);
+    border: var(--text-color) solid 1px;
+    padding: 5px;
+}
+
+th{
+    background-color: var(--content-color);
+    border: var(--text-color) solid 1px;
+    padding: 5px;
+}
+

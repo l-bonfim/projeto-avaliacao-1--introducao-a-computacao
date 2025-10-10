@@ -22,10 +22,10 @@ Criar um site estático institucional (apenas HTML e CSS) para uma marca fictíc
 - [x]  3 páginas mínimas (Home/Sobre/Contato) + links funcionando.
 - [x]  `header`, `nav`, `main`, `footer` usados com propósito.
 - [x]  Hero na página principal
-- [ ]  **Tabela** simples presente.
+- [x]  **Tabela** simples presente.
 - [x]  Paleta no `:root` (variáveis CSS).
 - [x]  Google Fonts.
-- [ ]  Imagens otimizadas com `alt` descritivo.
+- [x]  Imagens otimizadas com `alt` descritivo.
 - [ ]  README com papéis, paleta, fontes e decisões.
 - [x]  Site no ar.
 - [ ]  Vídeo de demonstração.
