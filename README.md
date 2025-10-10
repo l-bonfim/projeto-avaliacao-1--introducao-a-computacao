@@ -1,4 +1,4 @@
-# Projeto de Avliação 1 - Introdução a 
+# Projeto de Avliação 1 - Introdução a Computação
 
 <details>
 <summary><strong> Informações da disciplina para o Projeto: </summary></strong>
