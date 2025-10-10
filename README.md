@@ -21,11 +21,14 @@ Criar um site estático institucional (apenas HTML e CSS) para uma marca fictíc
 
 Meu objetivo com esse projeto, foi aproveitar a atividade para entrega do Cesar School,
 para criar um site de vendas para um empresa que realmente existe: Tania Bonfim Bolos.
+
 Como era uma demanda já existente (criação do site para vendas e portfólio de conteúdo),
 foi útil aproveitar a atividade, para ter um produto visualizavel e conseguir a partir dele
 criar um site mais funcional.
 
-### Autor: Lucas Bonfim
+### Autor
+
+Lucas Bonfim
 
 ### Paleta de cores e Fontes
 
@@ -35,6 +38,7 @@ cores:
     --text-color: #141c14;
     --extra-color: #ecebdf;
     --content-color: #a06d90;
+
 fonte:
     tenor sans
     
