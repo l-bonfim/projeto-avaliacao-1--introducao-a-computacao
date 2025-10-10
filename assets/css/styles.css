@@ -159,15 +159,18 @@ nav{
     background-color: var(--content-color);
 }
 
-.insta-tel{
-    margin-top: 15px;
-    display: flex;
-    flex-direction: row;
-}
-
 a{
     color: var(--text-color);
     text-decoration: none;
+}
+
+.cont-text{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.insta{
+    text-decoration: underline;
 }
 
 a:hover{
